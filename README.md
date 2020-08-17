@@ -1,4 +1,3 @@
 # README.md
 Hello World
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasyidcode)](https://github.com/anuraghazra/github-readme-stats)
