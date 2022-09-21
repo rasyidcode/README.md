@@ -2,7 +2,7 @@
 
 ## Mobile Projects
 - [Flutter Presensi Mahasiswa](https://github.com/rasyidcode/flutter_presensi_mhs)
-- [Flutter Dosen QRCode](https://github.com/rasyidcode/flutter_qrcode_dsn)
+- [Flutter QRCode Dosen](https://github.com/rasyidcode/flutter_qrcode_dsn)
 
 ## Web Projects
 - [Presensi App Backend](https://github.com/rasyidcode/presensiapp_backend)
